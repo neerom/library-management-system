@@ -268,7 +268,7 @@ git commit -m "Add project setup: gitignore, env template and requirements"
 
 **Commit 2 — design diagram**
 ```bash
-git add docs/er_diagram.dot docs/er_diagram.png
+git add docs/er_diagram.png
 git commit -m "Add ER diagram for library database"
 ```
 
